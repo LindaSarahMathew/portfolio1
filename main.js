@@ -1,0 +1,1 @@
+function changecolor(){document.getElementById("button").style.color="purple";}
